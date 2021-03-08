@@ -24,7 +24,6 @@ I am passionate about technologies and games, I like to see the beauty in the co
 
 - I’m currently learning React.Js and React Native, HTML, CSS, TypeScript and Ux and Ui.
 - I’m looking for help with React
-- Ask me about Interface Design
 
     <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipezaidan&langs_count=8)](https://github.com/filipezaidan/github-readme-statsl" />
      <img width="434px" src="https://github-readme-stats.vercel.app/api?username=filipezaidan&hide=contribs,prs" />
