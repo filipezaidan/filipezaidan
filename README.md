@@ -1,6 +1,6 @@
 
-<img align="right" height="590em" src="https://imguploader.net/if/4XYMT8v3rP5A.png"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Zaidan</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/filipezaidan/7a2ce2725efc11ce2162a351bc239d88/raw/48858cfd263a5ba327633ec1b7c59ac3dfe8ad68/profile_card.svg"/>
+<h1 align="left">Hi dear, I'm Filipe Zaidan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipezaidan&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Front-end developer
@@ -9,7 +9,7 @@
 
 - 👨 I’m looking for help with **Clean Code**
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 😄 Pronouns: **Zaidan**
 
